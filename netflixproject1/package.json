@@ -1,5 +1,5 @@
 {
-  "homepage":"https://A1n9d9u1alem.github.io/netflixproject1",
+  "homepage": "https://A1n9d9u1alem.github.io/netflixproject1",
   "name": "netflixproject1",
   "version": "0.1.0",
   "private": true,
@@ -21,8 +21,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -46,6 +46,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "github-pages": "^3.0.2",
     "react-scripts": "^5.0.1",
     "webpack": "^5.99.7",
