@@ -24,7 +24,7 @@ const Header = () => {
 </div>
 <div  className='header_right'>
 <ul>
-<li><searchIcon/></li>
+<li><SearchIcon/></li>
     <li><NotificationsNoneIcon/></li>
         <li><AccountBoxIcon/></li>
         <li><ArrowDropDownIcon/></li>
@@ -35,4 +35,4 @@ const Header = () => {
 </div>
   )
 }
-export default Header
+export default Header;

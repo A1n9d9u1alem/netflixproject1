@@ -19,7 +19,7 @@ const Footer = () => {
        <div>
        <ul>
 
-    <li>Audeo Descripton</li>
+    <li>Audio Descripton</li>
         <li>Invester Relations</li>
         <li>Legal Notice</li>
 
